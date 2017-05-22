@@ -9,6 +9,13 @@ body{
   background-color:red;
 
 }
+.box{
+      background-color: pink;
+      color:black;
+      width: 250px;
+      margin: 5px;
+      float: left;
+}
 header{
   background-color:blue;
 }
