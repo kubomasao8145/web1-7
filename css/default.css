@@ -7,18 +7,15 @@ body{
 
 body{
   background-color:red;
+      margin: 48px 0 0 0;
 
-}
-.box{
-      background-color: pink;
-      color:black;
-      width: 250px;
-      margin: 5px;
-      float: left;
-      overflow: hidden;
 }
 header{
   background-color:blue;
+      position: fixed;
+      left:0;
+      top:0;
+      width: 100%;
 }
 #main{
   background-color:white;
@@ -35,6 +32,14 @@ header{
   background-color:purple;
     width:600px;
   float:left;
+}
+.box{
+      background-color: pink;
+      color:black;
+      width: 250px;
+      margin: 5px;
+      float: left;
+      overflow: hidden;
 }
 aside{
   background-color:yellow;
