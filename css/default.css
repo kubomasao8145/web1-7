@@ -15,6 +15,7 @@ body{
       width: 250px;
       margin: 5px;
       float: left;
+      overflow: hidden;
 }
 header{
   background-color:blue;
